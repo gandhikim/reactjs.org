@@ -112,7 +112,7 @@ class Home extends Component {
                         fontSize: 60,
                       },
                     }}>
-                    React
+                    Gandhi
                   </h1>
                   <p
                     css={{
